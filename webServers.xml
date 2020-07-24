@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f383926-fbd3-43a2-bc6b-62cc54b523f6" name="Porto">
+        <fileTransfer rootFolder="/var/www/html/magento2-b2b-porto" accessType="SFTP" host="139.162.47.20" port="22" sshConfigId="2b496abb-c9cc-40f8-a72e-5ea0dd723e3a" sshConfig="Porto Theme b2b_extensions">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

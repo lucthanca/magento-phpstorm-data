@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="139.162.47.20" id="2b496abb-c9cc-40f8-a72e-5ea0dd723e3a" port="22" customName="Porto Theme b2b_extensions" nameFormat="CUSTOM" username="m2_b2b_porto" />
+    </configs>
+  </component>
+</project>
