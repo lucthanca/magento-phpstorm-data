@@ -9,6 +9,20 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="3009fd89-6d72-4f8b-b560-faef8c3fa675" name="FastOrder">
+        <fileTransfer rootFolder="/var/www/html/wholesale-fast-order-magento2" accessType="SFTP" host="139.162.47.20" port="22" sshConfigId="84655f51-e976-44fc-bc74-2026886487de" sshConfig="FastOrder">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="279a0586-f7e6-4bcd-ae41-fec5e30a5000" name="API">
+        <fileTransfer rootFolder="/var/www/html/magento2-api-graphql" accessType="SFTP" host="139.162.47.20" port="22" sshConfigId="a90ec95b-392e-4ef7-b842-77dab742a1c6" sshConfig="m2_api_graphql@139.162.47.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

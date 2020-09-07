@@ -2,21 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.idea" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/AddMultipleProducts" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/B2bPorto" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/B2bRegistration" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/CatalogPermission" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/CompanyAccount" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/ConfiguableGridView" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/FastOrder" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/ForceLogin" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/HidePrice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/MultiWishlist" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/OrderAmount" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/QuoteExtension" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/ReorderProduct" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/SalesRep" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Bss/StoreCredit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/code/Vadu/ThanKhi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Helper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/code/Bss/CustomPricing" vcs="Git" />
   </component>
 </project>

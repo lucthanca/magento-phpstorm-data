@@ -2,7 +2,13 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="139.162.47.20" id="2b496abb-c9cc-40f8-a72e-5ea0dd723e3a" port="22" customName="Porto Theme b2b_extensions" nameFormat="CUSTOM" username="m2_b2b_porto" />
+      <sshConfig authType="PASSWORD" host="139.162.47.20" id="2b496abb-c9cc-40f8-a72e-5ea0dd723e3a" port="22" customName="Porto Theme b2b_extensions" nameFormat="CUSTOM" username="m2_b2b_porto">
+        <option name="customName" value="Porto Theme b2b_extensions" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="139.162.47.20" id="84655f51-e976-44fc-bc74-2026886487de" port="22" customName="FastOrder" nameFormat="CUSTOM" username="fastorder">
+        <option name="customName" value="FastOrder" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="139.162.47.20" id="a90ec95b-392e-4ef7-b842-77dab742a1c6" port="22" nameFormat="DESCRIPTIVE" username="m2_api_graphql" />
     </configs>
   </component>
 </project>
